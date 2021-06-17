@@ -1,0 +1,53 @@
+{
+  "carrito": [
+      {
+          "id": 112,
+          "nombre": "Extra Stout",
+          "descrip": "Nuestra negra clásica es uno de los pilares de Manush. De cuerpo pleno, sabor torrado a café y con notas tostadas. Se caracteriza por su espuma duradera y de alta cremosidad. Nuestros clientes siempre la repiten por ser intensa y refrescante a la vez. Lúpulos: Bullion y Willamette.",
+          "precio": 175,
+          "stock": 500
+      },
+      {
+          "id": 113,
+          "nombre": "Kölsch",
+          "descrip": "La mejor opción para iniciarse en Manush es nuestra rubia clásica. Estilo ideal para medir un buen trabajo de fermentación. Liviana, maltosa y muy refrescante, con exquisitas notas a pera. Lúpulos: Willamette.",
+          "precio": 175,
+          "stock": 500
+      },
+      {
+          "id": 114,
+          "nombre": "Ipa",
+          "descrip": "Ale americana cobriza, floral, con toques herbáceos y cítricos. Buscamos el equilibrio entre el cuerpo y el lúpulo. Toda IPA Manush debe pasar la prueba del globo y el elefante: volar establemente con un buen contrapeso. Lúpulos: Nugget y Cascade.",
+          "precio": 215,
+          "stock": 500
+      },
+      {
+          "id": 115,
+          "nombre": "Irish Cream Ale",
+          "descrip": "Una de las más elegidas. Ale Irlandesa fácil de beber, con sabores sutiles a grano y bizcocho. Posee un toque tostado en el final que la hace muy refrescante. Lúpulos: Nugget y Bullion.",
+          "precio": 175,
+          "stock": 500
+      },
+      {
+          "id": 116,
+          "nombre": "Scotch",
+          "descrip": "Cerveza roja escocesa tipo ale, muy suntuosa. La combinación de 5 variedades de malta le da un color cobrizo oscuro con notas ahumadas y acarameladas. Lúpulos: Nugget.",
+          "precio": 190,
+          "stock": 500
+      },
+      {
+          "id": 117,
+          "nombre": "Milk Stout",
+          "descrip": "Ale inglesa de cuerpo pleno y cremoso, levemente dulce y sedosa, pero con el lúpulo justo para balancear el gusto. Las maltas tostadas le dan notas a café y chocolate, y las caramelizadas aportan aromas a nuez y caramelo. Su nombre se debe al agregado de lactosa. Lúpulos: Bullion.",
+          "precio": 190,
+          "stock": 500
+      },
+      {
+          "id": 118,
+          "nombre": "Session Ipa",
+          "descrip": "Una cuidada selección de lúpulos para evocar nuestros mejores recuerdos de frescura y aire libre. Esta IPA, que se mantiene y cambia a la vez, representa la persistencia del verano que todos llevamos dentro.",
+          "precio": 215,
+          "stock": 500
+      }
+  ]
+}
